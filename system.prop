@@ -1,0 +1,10 @@
+ro.debuggable=1
+ro.hardware=exynos7885
+ro.chipname=exynos7885
+ro.arch=exynos7885
+ro.boot.bootdevice=13500000.dwmmc0
+ro.lcd_min_brightness=0
+ro.lcd_brightness=150
+persist.sys.usb.config=adb,mtp
+sys.usb.config=adb,mtp
+ro.sf.lcd_density=290
